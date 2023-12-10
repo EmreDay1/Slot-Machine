@@ -1,3 +1,3 @@
 # Slot-Machine
 
-Simple JS slot machine game a simplw JavaScript project.
+slot machine game a simple JavaScript project.
