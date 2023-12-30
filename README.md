@@ -1,3 +1,3 @@
 # Slot-Machine
 
-slot machine game a simple JavaScript project. This project was done to test my JS skills(test by myself).
+Slot machine game a simple JavaScript project. Created to test my JS skills by myself.
